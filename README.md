@@ -8,3 +8,9 @@ All structures must be in the separate PDB file in single directory. They all mu
 
 ~~~
 chimera --nogui --script "~/bin/misc/chimera_match.py /absolute/path/with/trailing/slash/"
+~~~
+#### Before
+![Before](img/before.png)
+
+#### After
+![After](img/after.png)
